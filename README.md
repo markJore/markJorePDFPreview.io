@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+## A PDF PreView Browser
 
-You can use the [editor on GitHub](https://github.com/markJore/markJorePDFPreview.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+A class that support download PDF's File, you can use PDFDownloader class method to download PDF file.
+### PDF Show
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Support share to wechat 1
+## Support print 2
+### support save to document 3
 
 - Bulleted
 - List
